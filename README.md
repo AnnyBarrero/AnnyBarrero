@@ -3,7 +3,6 @@ WELCOME TO MY GITHUB PROFILE
  I am currently doing an update to my repositories, much more to come...
  ALSO:
 - 🌱 I’m currently learning about JavaScript, MySQL and Development Full-Stack 
-- 💞️ I'm looking for an alternance in Full-Stack Software Development
 - 📫 You can contact me by email: anny_barrero@hotmail.com
 Thank you for your time!!!
 <!---
